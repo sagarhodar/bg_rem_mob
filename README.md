@@ -1,4 +1,4 @@
-# Photo Background Removal App 📸✨
+# Photo Background Removal App for Mobile virsion 📸✨
 
 Welcome to the Photo Background Removal App repository! This app is designed to simplify the process of removing backgrounds from photos using the `rembg` library and `Streamlit` framework. Whether you're a professional photographer, a graphic designer, or someone who loves to get creative with their photos, this app has got you covered.
 
