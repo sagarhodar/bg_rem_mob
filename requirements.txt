@@ -1,4 +1,7 @@
-streamlit
-rembg
-Pillow
-streamlit-extras
+streamlit==1.48.0
+rembg==2.0.67
+onnxruntime==1.20.0
+Pillow==11.3.0
+streamlit-extras==0.7.5
+numba==0.61.2
+llvmlite==0.44.0
