@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 st.title("🖼️ Remove Background")
-st.markdown("Upload images to remove their backgrounds instantly! Works best on PC and mobile.")
+st.markdown("Upload images to remove their backgrounds instantly! Works best on PC and mobile.(by Parimal Hodar)")
 st.divider()
 
 # Move file uploader to main content for mobile accessibility
@@ -82,3 +82,4 @@ if images:
             st.error(f"Error processing image {idx + 1}: {str(e)}")
 else:
     st.info("👆 Upload some images to get started!")
+
